@@ -2,7 +2,7 @@
 # **ARKTIKSecure**  
 *A hybrid solution bridging AI, Web3, and traditional business ecosystems.*
 
-![ARKTIKSecure Banner](insert-image-link-here)  
+![ARKTIKSecure Banner]([insert-image-link-here(https://www.canva.com/design/DAGT8kgaRp4/s6tnvCv-0u6J68nxAjlGgw/edit?utm_content=DAGT8kgaRp4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))  
 
 ## **Overview**  
 ARKTIKSecure is a proof-of-concept showcasing the future of **AI-enhanced, Web3-integrated applications** deployed rapidly with **Azure’s App Service**. This project demonstrates the potential of cloud and hybrid models by deploying a fully operational, secure website in **under an hour**.
